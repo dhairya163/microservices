@@ -1,0 +1,6 @@
+Django
+djangorestframework
+django-mysql
+django-cors-headers
+mysqlclient
+pika
