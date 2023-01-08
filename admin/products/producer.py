@@ -8,6 +8,5 @@ connection = pika.BlockingConnection(params)
 
 channel = connection.channel()
 
-
 def publish(method, body):
     pass
